@@ -3,13 +3,14 @@
 [![Status: Simulated POC (In Silico)](https://img.shields.io/badge/Status-Simulated%20POC%20(In%20Silico)-blue.svg)](#)
 [![Material TRL: To Be Developed / Not Yet POC'd](https://img.shields.io/badge/Material%20Status-To%20Be%20Developed%20%2F%20Not%20Yet%20POC'd-orange.svg)](#)
 [![Co-Author: Google Gemini](https://img.shields.io/badge/Co--Author-Google%20Gemini-4285F4.svg)](https://gemini.google.com/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/hvdc-graded-dielectric-sim-poc/blob/main/src/hvdc_modeb_sim_poc.ipynb)
 
 **Primary Author:** Abhishek Singh  
 **ORCID:** https://orcid.org/0009-0004-6913-096X  
 **GitHub:** https://github.com/Abhishek1033ubuntu  
 **Co-Author / AI Research Collaborator:** Google Gemini (https://gemini.google.com/)  
 **Repository:** https://github.com/Abhishek1033ubuntu/hvdc-graded-dielectric-sim-poc  
+**Colab Notebook (`src/`):** https://colab.research.google.com/github/Abhishek1033ubuntu/hvdc-graded-dielectric-sim-poc/blob/main/src/hvdc_modeb_sim_poc.ipynb  
 **Sponsorship & Support:** https://www.paypal.me/Abhishek1033ubuntu  
 
 ---
@@ -61,7 +62,7 @@ Simulated across a 525 kV HVDC cable geometry (`r_i = 25.0 mm`, `r_o = 52.0 mm`,
 ## 5. Verification Plot & Quickstart
 ![525 kV HVDC Radial Profiles: XLPE vs. Mode B](results/hvdc_modeb_radial_profiles.png)
 
-To reproduce the benchmark numbers and regenerate the 4-panel verification figure in Python (NumPy, SciPy, Matplotlib) or Google Colab:
+Run directly in Google Colab via `src/hvdc_modeb_sim_poc.ipynb` (badge at top), or execute the standalone solver script in Python:
 
     python src/hvdc_modeb_calibrated_solver.py
 
