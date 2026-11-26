@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this simulated proof-of-concept software or dataset in your research, please cite it using the metadata below."
+type: software
+title: "hvdc-graded-dielectric-sim-poc: Coupled Electro-Thermal and Bipolar Charge-Transport Simulated POC for Radially Graded HVDC Polymeric Insulation"
+version: 1.0.0
+date-released: "2026-11-26"
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+  - name: "Google Gemini"
+    alias: "AI Research Collaborator"
+repository-code: "https://github.com/Abhishek1033ubuntu/hvdc-graded-dielectric-sim-poc"
+url: "https://github.com/Abhishek1033ubuntu/hvdc-graded-dielectric-sim-poc"
+abstract: >-
+  Simulated Proof-of-Concept (in silico) modeling coupled 1D cylindrical heat conduction,
+  Poisson electrostatics, and CFL-stabilized bipolar charge transport in 525 kV HVDC
+  extruded solid polymeric cable insulation under heavy conductor thermal gradients and
+  Voltage Polarity Reversal (VPR). Evaluates standard XLPE against a radially graded
+  Perfluorocyclobutyl (PFCB) / Oligosiloxane / Fluorinated Polyimide (6FDA-TFMB) block
+  terpolymer reinforced with surface-silanized isotopically enriched 11B15N nanosheets
+  (underlying Mode B material to be developed / not yet POC'd experimentally).
+keywords:
+  - hvdc
+  - high-voltage-engineering
+  - dielectrics
+  - space-charge
+  - electric-field-inversion
+  - partial-discharge
+  - electrical-treeing
+  - bipolar-charge-transport
+  - electro-thermal-simulation
+  - hexagonal-boron-nitride
+  - simulated-poc
+  - cigre
+license: MIT
