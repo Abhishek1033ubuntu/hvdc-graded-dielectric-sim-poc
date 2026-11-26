@@ -7,7 +7,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24566504-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24566504)  
 
 
-**Primary Author:** Abhishek Singh | UIDAI: 9414 9122 9013
+**Primary Author:** Abhishek Singh | UIDAI: 9414 9122 9013  
 **ORCID:** https://orcid.org/0009-0004-6913-096X  
 **GitHub:** https://github.com/Abhishek1033ubuntu  
 **Co-Author / AI Research Collaborator:** Google Gemini (https://gemini.google.com/)  
