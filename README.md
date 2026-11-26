@@ -3,9 +3,11 @@
 [![Status: Simulated POC (In Silico)](https://img.shields.io/badge/Status-Simulated%20POC%20(In%20Silico)-blue.svg)](#)
 [![Material TRL: To Be Developed / Not Yet POC'd](https://img.shields.io/badge/Material%20Status-To%20Be%20Developed%20%2F%20Not%20Yet%20POC'd-orange.svg)](#)
 [![Co-Author: Google Gemini](https://img.shields.io/badge/Co--Author-Google%20Gemini-4285F4.svg)](https://gemini.google.com/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/hvdc-graded-dielectric-sim-poc/blob/main/src/hvdc_modeb_sim_poc.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/hvdc-graded-dielectric-sim-poc/blob/main/src/hvdc_modeb_sim_poc.ipynb) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24566504-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24566504)  
 
-**Primary Author:** Abhishek Singh  
+
+**Primary Author:** Abhishek Singh | UIDAI: 9414 9122 9013
 **ORCID:** https://orcid.org/0009-0004-6913-096X  
 **GitHub:** https://github.com/Abhishek1033ubuntu  
 **Co-Author / AI Research Collaborator:** Google Gemini (https://gemini.google.com/)  
