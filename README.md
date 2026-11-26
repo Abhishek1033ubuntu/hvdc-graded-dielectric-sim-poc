@@ -72,3 +72,22 @@ Run directly in Google Colab via `src/hvdc_modeb_sim_poc.ipynb` (badge at top), 
 - **Simulated POC Scope:** All numerical results in this repository represent a computational/in silico Proof-of-Concept based on coupled cylindrical electro-thermal and bipolar charge-transport physics.
 - **Experimental Status:** The Mode B polymer-nanocomposite material and field-assisted radial curing line are **to be developed / not yet POC'd** physically.
 - **Citations:** Detailed literature citations are withheld in `References.md` to safeguard proprietary intellectual property and are available upon request.
+
+---
+
+## 7. Repository Structure
+
+```
+hvdc-graded-dielectric-sim-poc/
+├── README.md
+├── References.md
+├── LICENSE
+├── CITATION.cff
+├── src/
+│   ├── hvdc_modeb_calibrated_solver.py
+│   └── hvdc_modeb_sim_poc.ipynb
+├── results/
+│   └── hvdc_modeb_radial_profiles.png
+└── docs/
+    └── synthesis_and_poc_protocol.md
+```
